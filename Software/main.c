@@ -42,7 +42,7 @@ static void initialization_gpio(void);
 //Включение/отключение микросхемы AD8233
 static void control_AD8233(uint8_t state);
 //Прием сигнала
-static void give_signal(void);
+static uint16_t give_signal(void);
 
 //Обработка индикация ошибок
 static void error_signal(void);
@@ -252,12 +252,13 @@ void initization_adc(void){
   NRF_SAADC->ENABLE |= (uint32_t) 0x01;
 }
 
-//Считывание сигнала с 
-void give_signal(void){
+//Считывание сигнала с AD8233
+uint16_t give_signal(void){
   uint16_t signal = 0;
   for (uint16_t count = 0; count <100; count++){
     signal += NRF_SAADC->RESULT.PTR;
   }
+  return signal;
 }
 
 //Обработка ошибок

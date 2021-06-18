@@ -1,61 +1,61 @@
-"C:\Users\Aydar\Desktop\Test for mircode\Software\main.c"
+"C:\workspace\git\TestMircode\Software\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\Aydar\Desktop\Test for mircode\Software\Debug\BrowseInfo\main.pbi.dep
+C:\workspace\git\TestMircode\Software\Debug\BrowseInfo\main.pbi.dep
 -o
-C:\Users\Aydar\Desktop\Test for mircode\Software\Debug\BrowseInfo\main.pbi
+C:\workspace\git\TestMircode\Software\Debug\BrowseInfo\main.pbi
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software
+C:\workspace\git\TestMircode\Software
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\config\
+C:\workspace\git\TestMircode\Software\config
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\
+C:\workspace\git\TestMircode\Software\components
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\boards\
+C:\workspace\git\TestMircode\Software\components\boards
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\drivers_nrf\nrf_soc_nosd\
+C:\workspace\git\TestMircode\Software\components\drivers_nrf\nrf_soc_nosd
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\atomic\
+C:\workspace\git\TestMircode\Software\components\libraries\atomic
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\balloc\
+C:\workspace\git\TestMircode\Software\components\libraries\balloc
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\bsp\
+C:\workspace\git\TestMircode\Software\components\libraries\bsp
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\delay\
+C:\workspace\git\TestMircode\Software\components\libraries\delay
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\experimental_section_vars\
+C:\workspace\git\TestMircode\Software\components\libraries\experimental_section_vars
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\log\
+C:\workspace\git\TestMircode\Software\components\libraries\log
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\log\src\
+C:\workspace\git\TestMircode\Software\components\libraries\log\src
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\memobj\
+C:\workspace\git\TestMircode\Software\components\libraries\memobj
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\ringbuf\
+C:\workspace\git\TestMircode\Software\components\libraries\ringbuf
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\strerror\
+C:\workspace\git\TestMircode\Software\components\libraries\strerror
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\util\
+C:\workspace\git\TestMircode\Software\components\libraries\util
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\toolchain\cmsis\include\
+C:\workspace\git\TestMircode\Software\components\toolchain\cmsis\include
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\
+C:\workspace\git\TestMircode\Software
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\external\fprintf\
+C:\workspace\git\TestMircode\Software\external\fprintf
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\integration\nrfx\
+C:\workspace\git\TestMircode\Software\integration\nrfx
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\modules\nrfx\
+C:\workspace\git\TestMircode\Software\modules\nrfx
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\modules\nrfx\hal\
+C:\workspace\git\TestMircode\Software\modules\nrfx\hal
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\modules\nrfx\mdk\
+C:\workspace\git\TestMircode\Software\modules\nrfx\mdk
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\config\
+C:\workspace\git\TestMircode\Software\config
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c\aarch32
 -I
@@ -63,51 +63,51 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\config
+C:\workspace\git\TestMircode\Software\config
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components
+C:\workspace\git\TestMircode\Software\components
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\boards
+C:\workspace\git\TestMircode\Software\components\boards
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\drivers_nrf\nrf_soc_nosd
+C:\workspace\git\TestMircode\Software\components\drivers_nrf\nrf_soc_nosd
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\atomic
+C:\workspace\git\TestMircode\Software\components\libraries\atomic
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\balloc
+C:\workspace\git\TestMircode\Software\components\libraries\balloc
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\bsp
+C:\workspace\git\TestMircode\Software\components\libraries\bsp
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\delay
+C:\workspace\git\TestMircode\Software\components\libraries\delay
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\experimental_section_vars
+C:\workspace\git\TestMircode\Software\components\libraries\experimental_section_vars
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\log
+C:\workspace\git\TestMircode\Software\components\libraries\log
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\log\src
+C:\workspace\git\TestMircode\Software\components\libraries\log\src
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\memobj
+C:\workspace\git\TestMircode\Software\components\libraries\memobj
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\ringbuf
+C:\workspace\git\TestMircode\Software\components\libraries\ringbuf
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\strerror
+C:\workspace\git\TestMircode\Software\components\libraries\strerror
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\libraries\util
+C:\workspace\git\TestMircode\Software\components\libraries\util
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\components\toolchain\cmsis\include
+C:\workspace\git\TestMircode\Software\components\toolchain\cmsis\include
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software
+C:\workspace\git\TestMircode\Software
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\external\fprintf
+C:\workspace\git\TestMircode\Software\external\fprintf
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\integration\nrfx
+C:\workspace\git\TestMircode\Software\integration\nrfx
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\modules\nrfx
+C:\workspace\git\TestMircode\Software\modules\nrfx
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\modules\nrfx\hal
+C:\workspace\git\TestMircode\Software\modules\nrfx\hal
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\modules\nrfx\mdk
+C:\workspace\git\TestMircode\Software\modules\nrfx\mdk
 -I
-C:\Users\Aydar\Desktop\Test for mircode\Software\config
+C:\workspace\git\TestMircode\Software\config
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

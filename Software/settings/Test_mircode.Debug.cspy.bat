@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\Aydar\Desktop\Test for mircode\Software\settings\Test_mircode.Debug.general.xcl" --backend -f "C:\Users\Aydar\Desktop\Test for mircode\Software\settings\Test_mircode.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\workspace\git\TestMircode\Software\settings\Test_mircode.Debug.general.xcl" --backend -f "C:\workspace\git\TestMircode\Software\settings\Test_mircode.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\Aydar\Desktop\Test for mircode\Software\settings\Test_mircode.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Aydar\Desktop\Test for mircode\Software\settings\Test_mircode.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\workspace\git\TestMircode\Software\settings\Test_mircode.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\workspace\git\TestMircode\Software\settings\Test_mircode.Debug.driver.xcl" 
 
 @echo off 
 :end

@@ -5,55 +5,40 @@
     <configuration>
         <name>Debug</name>
         <outputs>
-            <file>$PROJ_DIR$\Debug\Exe\Test_mircode.out</file>
-            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
-            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
             <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
-            <file>$PROJ_DIR$\modules\nrfx\mdk\system_nrf52.h</file>
-            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
-            <file>$PROJ_DIR$\components\toolchain\cmsis\include\cmsis_version.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
             <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
             <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
-            <file>$PROJ_DIR$\components\toolchain\cmsis\include\mpu_armv7.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\modules\nrfx\mdk\system_nrf52.h</file>
             <file>$PROJ_DIR$\components\toolchain\cmsis\include\cmsis_compiler.h</file>
-            <file>$PROJ_DIR$\modules\nrfx\mdk\nrf52.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
             <file>$PROJ_DIR$\components\toolchain\cmsis\include\core_cm4.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
             <file>$PROJ_DIR$\Debug\List\Test_mircode.map</file>
+            <file>$PROJ_DIR$\components\toolchain\cmsis\include\mpu_armv7.h</file>
             <file>$TOOLKIT_DIR$\config\linker\NordicSemi\nrf5281x_xxaa.icf</file>
             <file>$PROJ_DIR$\components\toolchain\cmsis\include\cmsis_iccarm.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
             <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\modules\nrfx\mdk\nrf52.h</file>
+            <file>$PROJ_DIR$\components\toolchain\cmsis\include\cmsis_version.h</file>
             <file>$PROJ_DIR$\main.c</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Exe\Test_mircode.out</file>
         </outputs>
-        <file>
-            <name>$PROJ_DIR$\Debug\Exe\Test_mircode.out</name>
-            <outputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 22</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 23 3 2 5 1 8</file>
-                </tool>
-            </inputs>
-        </file>
         <file>
             <name>[ROOT_NODE]</name>
             <outputs>
                 <tool>
                     <name>ILINK</name>
-                    <file> 0 22</file>
+                    <file> 26 9</file>
                 </tool>
             </outputs>
         </file>
@@ -68,7 +53,22 @@
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 7 13 6 16 11 21 20 25 17 10 18 14 24 9 19 12 15 4</file>
+                    <file> 17 7 18 21 3 20 19 14 15 2 13 5 12 23 6 10 22 4</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\Test_mircode.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 9</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 11 0 1 16 25 8</file>
                 </tool>
             </inputs>
         </file>
