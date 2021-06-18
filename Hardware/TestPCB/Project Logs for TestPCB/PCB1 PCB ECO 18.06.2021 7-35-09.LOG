@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=U1-A1
+Removed Pin From Net: NetName=NetC6_2 Pin=U1-A2
+Removed Pin From Net: NetName=+3.3V Pin=U1-A3
+Removed Pin From Net: NetName=NetC5_1 Pin=U1-A4
+Removed Pin From Net: NetName=NetC5_2 Pin=U1-A5
+Removed Pin From Net: NetName=GND Pin=U1-B2
+Removed Pin From Net: NetName=GND Pin=U1-B3
+Removed Pin From Net: NetName=NetC4_2 Pin=U1-B4
+Removed Pin From Net: NetName=LA Pin=U1-B5
+Removed Pin From Net: NetName=+3.3V Pin=U1-C2
+Removed Pin From Net: NetName=NetC3_1 Pin=U1-C3
+Removed Pin From Net: NetName=NetC2_1 Pin=U1-C4
+Removed Pin From Net: NetName=RA Pin=U1-C5
+Removed Pin From Net: NetName=OUT Pin=U1-D1
+Removed Pin From Net: NetName=NetR5_1 Pin=U1-D2
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-D3
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-D4
+Removed Pin From Net: NetName=NetC2_2 Pin=U1-D5
+Removed Member From Class: ClassName=Designator Member=U1
+Added Component: Designator=U?(WLCSP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U?-A1
+Added Pin To Net: NetName=NetC6_2 Pin=U?-A2
+Added Pin To Net: NetName=+3.3V Pin=U?-A3
+Added Pin To Net: NetName=NetC5_1 Pin=U?-A4
+Added Pin To Net: NetName=NetC5_2 Pin=U?-A5
+Added Pin To Net: NetName=GND Pin=U?-B2
+Added Pin To Net: NetName=GND Pin=U?-B3
+Added Pin To Net: NetName=NetC4_2 Pin=U?-B4
+Added Pin To Net: NetName=LA Pin=U?-B5
+Added Pin To Net: NetName=+3.3V Pin=U?-C2
+Added Pin To Net: NetName=NetC3_1 Pin=U?-C3
+Added Pin To Net: NetName=NetC2_1 Pin=U?-C4
+Added Pin To Net: NetName=RA Pin=U?-C5
+Added Pin To Net: NetName=OUT Pin=U?-D1
+Added Pin To Net: NetName=NetR5_1 Pin=U?-D2
+Added Pin To Net: NetName=NetC1_2 Pin=U?-D3
+Added Pin To Net: NetName=NetC1_2 Pin=U?-D4
+Added Pin To Net: NetName=NetC2_2 Pin=U?-D5
+Added Pin To Net: NetName=LA Pin=XS4-1
+Added Pin To Net: NetName=RA Pin=XS4-2
+Added Pin To Net: NetName=RL Pin=XS4-3
+Added Member To Class: ClassName=Designator Member=Component U? AD8233
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

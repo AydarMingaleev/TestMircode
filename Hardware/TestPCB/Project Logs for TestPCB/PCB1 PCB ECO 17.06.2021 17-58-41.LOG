@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Designator Member=U1
+Added Component: Designator=U?(WLCSP)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Designator Member=Component U? AD8233
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator

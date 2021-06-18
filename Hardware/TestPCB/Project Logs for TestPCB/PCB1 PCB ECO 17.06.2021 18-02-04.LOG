@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Designator Member=C4
+Added Component: Designator=C?(0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR8_1 Pin=C?-1
+Added Pin To Net: NetName=NetC1_2 Pin=C?-2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetC?_1
+Added Member To Class: ClassName=Designator Member=Component C? 0.22uF
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator

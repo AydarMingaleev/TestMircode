@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Designator Member=XS2
+Added Component: Designator=SB1(2565)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Control_button Pin=SB1-1
+Added Pin To Net: NetName=Control_button Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB1-2
+Added Pin To Net: NetName=GND Pin=SB1-2
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

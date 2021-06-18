@@ -1,0 +1,225 @@
+Added Component: Designator=C1(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R18(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R19(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R20(0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(WLCSP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(LGA QFN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(SOP-8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(SOT23-5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XS?(USB Type C)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=OUT Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=NetC1_2 Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+3.3V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+3.3V Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3.3V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=Bat+ Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=Bat+ Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=Control_button Pin=C13-2
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Pin To Net: NetName=RL Pin=R1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R2-1
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Pin To Net: NetName=+3.3V Pin=R3-2
+Added Pin To Net: NetName=NetC3_1 Pin=R4-1
+Added Pin To Net: NetName=NetC1_2 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetC3_1 Pin=R5-2
+Added Pin To Net: NetName=OUT Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=LA Pin=R7-1
+Added Pin To Net: NetName=+3.3V Pin=R7-2
+Added Pin To Net: NetName=NetC4_2 Pin=R8-1
+Added Pin To Net: NetName=NetC5_1 Pin=R8-2
+Added Pin To Net: NetName=NetC6_2 Pin=R9-1
+Added Pin To Net: NetName=+3.3V Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=+3.3V Pin=R10-2
+Added Pin To Net: NetName=Control_button Pin=R11-1
+Added Pin To Net: NetName=+3.3V Pin=R11-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=SWDIO Pin=R13-1
+Added Pin To Net: NetName=+3.3V Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=SWCLK Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetC12_2 Pin=R18-1
+Added Pin To Net: NetName=+5V Pin=R18-2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=+3.3V Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=NetR19_1 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=SDN Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=NetU2_20 Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=NetU2_20 Pin=U2-22
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=GND Pin=U2-24
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=+3.3V Pin=U2-26
+Added Pin To Net: NetName=SWDIO Pin=U2-28
+Added Pin To Net: NetName=SWCLK Pin=U2-30
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=Control_button Pin=U2-36
+Added Pin To Net: NetName=OUT Pin=U2-38
+Added Pin To Net: NetName=NetR12_1 Pin=U2-48
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=NetR15_2 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=+5V Pin=U3-4
+Added Pin To Net: NetName=Bat+ Pin=U3-5
+Added Pin To Net: NetName=NetR17_1 Pin=U3-6
+Added Pin To Net: NetName=NetR16_1 Pin=U3-7
+Added Pin To Net: NetName=+5V Pin=U3-8
+Added Pin To Net: NetName=Bat+ Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=Bat+ Pin=U4-3
+Added Pin To Net: NetName=NetR19_1 Pin=U4-4
+Added Pin To Net: NetName=+3.3V Pin=U4-5
+Added Pin To Net: NetName=GND Pin=XS?-A1
+Added Pin To Net: NetName=+5V Pin=XS?-A4
+Added Pin To Net: NetName=+5V Pin=XS?-A9
+Added Pin To Net: NetName=GND Pin=XS?-A12
+Added Pin To Net: NetName=GND Pin=XS?-B1
+Added Pin To Net: NetName=+5V Pin=XS?-B4
+Added Pin To Net: NetName=+5V Pin=XS?-B9
+Added Pin To Net: NetName=GND Pin=XS?-B12
+Added Member To Class: ClassName=Designator Member=Component C1 Конденсатор
+Added Member To Class: ClassName=Designator Member=Component C2 1000pF
+Added Member To Class: ClassName=Designator Member=Component C3 0.022uF
+Added Member To Class: ClassName=Designator Member=Component C4 0.22uF
+Added Member To Class: ClassName=Designator Member=Component C5 0.22uF
+Added Member To Class: ClassName=Designator Member=Component C6 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C7 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C8 100nF
+Added Member To Class: ClassName=Designator Member=Component C9 1uF
+Added Member To Class: ClassName=Designator Member=Component C10 10uF
+Added Member To Class: ClassName=Designator Member=Component C11 1uF
+Added Member To Class: ClassName=Designator Member=Component C12 10uF
+Added Member To Class: ClassName=Designator Member=Component C13 100nF
+Added Member To Class: ClassName=Designator Member=Component R1 360K
+Added Member To Class: ClassName=Designator Member=Component R2 1M
+Added Member To Class: ClassName=Designator Member=Component R3 10M
+Added Member To Class: ClassName=Designator Member=Component R4 100K
+Added Member To Class: ClassName=Designator Member=Component R5 100K
+Added Member To Class: ClassName=Designator Member=Component R6 1M
+Added Member To Class: ClassName=Designator Member=Component R7 10M
+Added Member To Class: ClassName=Designator Member=Component R8 1M
+Added Member To Class: ClassName=Designator Member=Component R9 10M
+Added Member To Class: ClassName=Designator Member=Component R10 10M
+Added Member To Class: ClassName=Designator Member=Component R11 10K
+Added Member To Class: ClassName=Designator Member=Component R12 500
+Added Member To Class: ClassName=Designator Member=Component R13 10K
+Added Member To Class: ClassName=Designator Member=Component R14 10K
+Added Member To Class: ClassName=Designator Member=Component R15 2K
+Added Member To Class: ClassName=Designator Member=Component R16 1K
+Added Member To Class: ClassName=Designator Member=Component R17 1K
+Added Member To Class: ClassName=Designator Member=Component R18 0.4
+Added Member To Class: ClassName=Designator Member=Component R19 301K
+Added Member To Class: ClassName=Designator Member=Component R20 169K
+Added Member To Class: ClassName=Designator Member=Component U1 AD8233
+Added Member To Class: ClassName=Designator Member=Component U2 ISP1507-AL
+Added Member To Class: ClassName=Designator Member=Component U3 TP4056
+Added Member To Class: ClassName=Designator Member=Component U4 TPS76333DBVT
+Added Member To Class: ClassName=Designator Member=Component XS? Разъем Type C
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

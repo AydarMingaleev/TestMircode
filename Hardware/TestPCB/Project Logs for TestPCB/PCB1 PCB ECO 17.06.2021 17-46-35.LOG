@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=Designator Member=VD3
+Removed Member From Class: ClassName=Designator Member=VD4
+Added Component: Designator=XS1(PIN 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XS2(PIN 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XS4(PIN 3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SWDIO Pin=XS1-1
+Added Pin To Net: NetName=SWCLK Pin=XS1-2
+Added Pin To Net: NetName=Bat+ Pin=XS2-1
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=LA Pin=XS4-1
+Added Pin To Net: NetName=RA Pin=XS4-2
+Added Pin To Net: NetName=RL Pin=XS4-3
+Added Member To Class: ClassName=Designator Member=Component XS4 ׀אחתול 3
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator

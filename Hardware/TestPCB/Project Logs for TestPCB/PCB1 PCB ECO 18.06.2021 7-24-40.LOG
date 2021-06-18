@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+3.3V Pin=U1-A3
+Removed Pin From Net: NetName=NetC5_1 Pin=U1-A4
+Removed Pin From Net: NetName=NetC5_2 Pin=U1-A5
+Removed Pin From Net: NetName=GND Pin=U1-B2
+Removed Pin From Net: NetName=GND Pin=U1-B3
+Removed Pin From Net: NetName=NetC4_2 Pin=U1-B4
+Removed Pin From Net: NetName=LA Pin=U1-B5
+Removed Pin From Net: NetName=+3.3V Pin=U1-C2
+Removed Pin From Net: NetName=NetC3_1 Pin=U1-C3
+Removed Pin From Net: NetName=NetC2_1 Pin=U1-C4
+Removed Pin From Net: NetName=RA Pin=U1-C5
+Removed Pin From Net: NetName=OUT Pin=U1-D1
+Removed Pin From Net: NetName=NetR5_1 Pin=U1-D2
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-D3
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-D4
+Removed Pin From Net: NetName=NetC2_2 Pin=U1-D5
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

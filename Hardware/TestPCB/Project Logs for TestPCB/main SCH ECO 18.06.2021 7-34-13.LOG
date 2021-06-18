@@ -1,0 +1,3 @@
+Remove Pin=XS4-1 From Net=LA
+Remove Pin=XS4-2 From Net=RA
+Remove Pin=XS4-3 From Net=RL

@@ -1,0 +1,6 @@
+Remove Pin=XS2-1 From Net=Bat+
+Remove Pin=XS4-1 From Net=LA
+Remove Pin=XS4-2 From Net=RA
+Remove Pin=XS4-3 From Net=RL
+Change Pin Designator/Name:  Old Designator=C4-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C4-2 Old Name=2 New Designator =1 New Name=1

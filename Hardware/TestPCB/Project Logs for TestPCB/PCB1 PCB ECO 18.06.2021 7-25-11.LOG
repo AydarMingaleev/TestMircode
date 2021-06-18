@@ -1,0 +1,7 @@
+Added Component: Designator=U1(WLCSP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U1-A1
+Added Pin To Net: NetName=NetC6_2 Pin=U1-A2
+Added Member To Class: ClassName=Designator Member=Component U1 AD8233
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator

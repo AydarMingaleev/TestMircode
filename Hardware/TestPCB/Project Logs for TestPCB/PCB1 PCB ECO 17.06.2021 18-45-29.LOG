@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=+3.3V Pin=U1-A3
+Added Pin To Net: NetName=NetC5_2 Pin=U1-A5
+Added Pin To Net: NetName=GND Pin=U1-B2
+Added Pin To Net: NetName=GND Pin=U1-B3
+Added Pin To Net: NetName=NetC4_2 Pin=U1-B4
+Added Pin To Net: NetName=LA Pin=U1-B5
+Added Pin To Net: NetName=+3.3V Pin=U1-C2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-C3
+Added Pin To Net: NetName=NetC2_1 Pin=U1-C4
+Added Pin To Net: NetName=RA Pin=U1-C5
+Added Pin To Net: NetName=OUT Pin=U1-D1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-D2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-D3
+Added Pin To Net: NetName=NetC1_2 Pin=U1-D4
+Added Pin To Net: NetName=NetC2_2 Pin=U1-D5
+Added Room: Name=Designator
+Added Room: Name=Designator
